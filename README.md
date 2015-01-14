@@ -5,15 +5,17 @@
 more stuff
 
 ## Introduction
+
+## Something Important
+
+## Conclusion
+Concluded
+
 Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! 
 
 Some Intro! Some Intro! Some Intro! Some Intro! Some Intro! 
 
 Some Intro! Some Intro! Some Intro! 
 
-## Something Important
-
-## Conclusion
-Concluded
 
 ## How you can contribute
